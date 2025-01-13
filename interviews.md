@@ -8,6 +8,7 @@
 - **Topics to Study**: Process management, memory management, file systems, networking basics.
 - **Resources**:
   - [GeeksforGeeks: OS Interview Questions](https://www.geeksforgeeks.org/operating-systems-interview-questions/)
+  -[GeeksforGeeks: Linux](https://www.geeksforgeeks.org/linux-interview-questions/)
   - [InterviewBit: OS Interview Questions](https://www.interviewbit.com/operating-system-interview-questions/)
 
 #### b. **Data Structures and Algorithms**
@@ -19,31 +20,27 @@
 #### c. **Networking**
 - **Topics to Study**: HTTP/HTTPS, TCP/IP, UDP, firewalls, DNS resolution.
 - **Resources**:
-  - [GeeksforGeeks: Networking Questions](https://www.geeksforgeeks.org/top-50-networking-interview-questions/)
-  - [Cisco: Networking Fundamentals](https://learningnetwork.cisco.com/)
+  - [GeeksforGeeks: Networking Questions](https://www.geeksforgeeks.org/networking-interview-questions/)
 
 ### 2. **Programming Skills**
 - **Topics to Study**: Scripting, problem-solving, REST APIs.
 - **Resources**:
   - [GeeksforGeeks: Python Interview Questions](https://www.geeksforgeeks.org/python-interview-questions/)
-  - [HackerRank: Coding Practice](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
 ### 3. **Software Development Concepts**
 - **Topics to Study**: Version control, Agile, SDLC, testing types.
 - **Resources**:
   - [GitHub: Git Interview Questions](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/git/git-quiz.md)
-  - [Scrum Alliance: Agile Basics](https://www.scrumalliance.org/why-scrum/agile-basics)
 
 ### 4. **Security Basics**
 - **Topics to Study**: Authentication vs. authorization, OWASP top 10, encryption.
 - **Resources**:
   - [OWASP: Top 10 Explained](https://owasp.org/www-project-top-ten/)
-  - [GeeksforGeeks: Cybersecurity Questions](https://www.geeksforgeeks.org/cybersecurity-interview-questions/)
+  - [GeeksforGeeks: Cybersecurity Questions](https://www.geeksforgeeks.org/cyber-security-interview-questions/)
 
 ### 5. **Cloud Computing Basics**
 - **Topics to Study**: Public/private/hybrid clouds, major providers, key services.
 - **Resources**:
-  - [AWS: Cloud Computing Basics](https://aws.amazon.com/what-is-cloud-computing/)
   - [GeeksforGeeks: Cloud Interview Questions](https://www.geeksforgeeks.org/cloud-computing-interview-questions/)
 
 ---
@@ -53,8 +50,8 @@
 ### 1. **Core DevOps Principles**
 - **Topics to Study**: DevOps culture, CI/CD, Infrastructure as Code, monitoring, logging.
 - **Resources**:
-  - [GeeksforGeeks: CI/CD Questions](https://www.geeksforgeeks.org/ci-cd-interview-questions/)
-  - [Terraform: IaC Basics](https://developer.hashicorp.com/terraform/docs)
+  - [GeeksforGeeks: General Devops Questions](https://www.geeksforgeeks.org/devops-interview-questions/)
+  - [Roadmap Questions](https://devopsroadmap.io/interview/common-questions/)
 
 ### 2. **Containers and Orchestration**
 #### a. **Docker**
@@ -73,24 +70,25 @@
 #### a. **Cloud Platforms**
 - **Topics to Study**: Compute, storage, networking, databases.
 - **Resources**:
-  - [AWS: EC2 and S3 Basics](https://aws.amazon.com/getting-started/)
-  - [Azure: Cloud Concepts](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/)
+  - [GeeksforGeeks: AWS ](https://www.geeksforgeeks.org/aws-interview-questions/)
+
 
 #### b. **Scripting and Automation**
 - **Topics to Study**: Automating tasks with Python or Bash.
 - **Resources**:
-  - [GeeksforGeeks: Bash Scripting Questions](https://www.geeksforgeeks.org/bash-interview-questions/)
-  - [HackerRank: Python Practice](https://www.hackerrank.com/domains/python)
-
+  - [Simplilearn: Bash Scripting Questions](hhttps://www.simplilearn.com/shell-scripting-interview-questions-article)
+  - [zerotomastery: Bash Scripting](https://zerotomastery.io/blog/bash-scripting-interview-questions/)
+  - [GeeksforGeeks: Automation-testing](https://www.geeksforgeeks.org/automation-testing-interview-questions/)
 #### c. **Serverless Computing**
 - **Topics to Study**: AWS Lambda, Azure Functions.
 - **Resources**:
   - [AWS: Lambda Basics](https://aws.amazon.com/lambda/)
-  - [Azure: Serverless Computing](https://learn.microsoft.com/en-us/azure/serverless/)
+  - [Serverless Computing](https://www.datacamp.com/blog/aws-lambda-interview-questions)
 
 ### 4. **Networking for DevOps**
 - **Topics to Study**: Application-level networking, container networking.
 - **Resources**:
+  - [Medium: Networking for Devops](https://medium.com/@madhavarajas1997/networking-fundamentals-for-devops-engineers-665ed406080f)
   - [Docker: Networking Guide](https://docs.docker.com/network/)
   - [Kubernetes: Networking Explained](https://kubernetes.io/docs/concepts/services-networking/)
 
@@ -99,18 +97,24 @@
 - **Resources**:
   - [Jenkins: CI/CD Basics](https://www.jenkins.io/doc/)
   - [GitLab: CI/CD Pipelines](https://docs.gitlab.com/ee/ci/)
+  - [General CICD questions](https://semaphoreci.com/blog/common-cicd-interview-questions)
+  - [GeeksforGeeks: Jenkins interview questions](https://www.geeksforgeeks.org/jenkins-interview-questions/)
+  - [Razorops cicd interview questions](https://razorops.com/blog/top-50-cicd-interview-questions-and-answers/)
 
 ### 6. **Observability and Reliability**
 - **Topics to Study**: Monitoring, metrics collection, alerting.
 - **Resources**:
   - [Prometheus: Getting Started](https://prometheus.io/docs/introduction/overview/)
+  - [Prometheus Interview questions](https://razorops.com/blog/top-50-prometheus-interview-question-and-answers/)
   - [Grafana: Dashboards](https://grafana.com/docs/grafana/latest/)
+  - [Grafana: Interview questions](https://razorops.com/blog/top-50-grafana-interview-question-and-answers/)
 
 ### 7. **DevSecOps**
 - **Topics to Study**: Security in pipelines, scanning tools.
 - **Resources**:
   - [SonarQube: Code Quality](https://www.sonarqube.org/)
   - [Snyk: Vulnerability Scanning](https://snyk.io/)
+  - [DevSecOps interview questions](https://cloudfoundation.com/blog/devsecops-interview-questions/)
 
 ### 8. **Optional/Advanced Topics**
 #### a. **Microservices and Architecture**
