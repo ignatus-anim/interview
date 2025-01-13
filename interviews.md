@@ -128,5 +128,7 @@
 - **Resources**:
   - [PostgreSQL: Official Docs](https://www.postgresql.org/docs/)
   - [MongoDB: Beginner's Guide](https://www.mongodb.com/docs/)
-
+### 9. **Dashboards**
+  - **Resources**:
+    - [Deployments](https://climbtheladder.com/deployment-interview-questions/)
 
