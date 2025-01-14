@@ -131,4 +131,5 @@
 ### 9. **Dashboards**
   - **Resources**:
     - [Deployments](https://climbtheladder.com/deployment-interview-questions/)
+    - [Configuation Management](https://razorops.com/blog/top-50-configuration-management-interview-question-and-answers/)
 
