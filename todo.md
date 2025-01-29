@@ -10,8 +10,10 @@
 - [Argocd](https://deniz-turkmen.medium.com/getting-started-with-argo-cd-a-beginners-guide-561d2c30de38)
 - [Flux](https://medium.com/@selvamraju007/fluxcd-introduction-and-installation-demo-fb9fe0cb7555)
 - [Ansible](https://medium.com/swlh/getting-started-with-ansible-ee31be8c6a75)
+- [Ansible by Aman Pathak](https://medium.com/p/7351c1f28580)
 - [Prometheus and Grafana](https://medium.com/simform-engineering/revolutionize-monitoring-empowering-spring-boot-applications-with-prometheus-and-grafana-e99c5c7248cf)
 - [Ansible 2](https://medium.com/@sandeep010498/learn-ansible-with-real-time-project-cf6a0a512d45)
+- [End to End include ansible](https://hackernoon.com/building-a-cicd-pipeline-with-aws-k8s-docker-ansible-git-github-apache-maven-and-jenkins?utm_source=chatgpt.com)
 
 ## Authors
 - [Aman Pathak](https://amanpathakdevops.medium.com/)
