@@ -20,3 +20,24 @@
 - [Aakib](https://medium.com/@aakibkhan1)
 - [Ikeri Ebenezer](https://medium.com/@ikbenezer)
 - [My following](https://medium.com/@ignatusa3)
+
+
+General tip: Must be black
+attended bams
+
+
+1. A new born baby to a african parents. Illustrate it with some feeding bottle
+2. Me as toddler playing puzzle
+3. Got enrolled in school. creche, school name BAMS show students
+4. Got to Primary school and love reading books
+5. Got to JHS leading a group discussion
+6. Enrolled in shs, showing fresher orientation or sth
+7. Doing science, physics lab or chemistry
+8. Graduated from shs
+9. Started teaching in my the school i attended BAMS
+10. Gained admission to the university, KNUST
+11. Doing Computer engineering shows in computer lab or computer engineering lab
+12. Doing internship as Network Administrator in a Samartex Company
+13. Self learning software engineering
+14. Graduated university (knust)
+15. Doing Devops in Amalitech
