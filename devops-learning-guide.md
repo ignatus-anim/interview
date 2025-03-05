@@ -17,7 +17,6 @@
 
 ### FluxCD Projects
 - [Getting Started with FluxCD](https://medium.com/@selvamraju007/fluxcd-introduction-and-installation-demo-fb9fe0cb7555)
-
 ### Ansible Projects
 - [Introduction to Ansible: Automation for DevOps](https://medium.com/swlh/getting-started-with-ansible-ee31be8c6a75)
 - [Real-Time Ansible Project by Aman Pathak](https://medium.com/p/7351c1f28580)
